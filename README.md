@@ -20,19 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Extremamente Aesthetic ;) GUIA BÁSICO DE COMO CUIDAR DE ROSAS
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O guia é um passo a passo para iniciantes em cultivo de rosas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft Copilot
+Chatgpt
+LibreOffice Write
+Google
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisei conteúdo sobre o assunto no Copilot e no Chatgpt, a edição foi elaborada no LibreOffice Write e as imagens foram pesquisadas no Google
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foi elaborado um guia com as principais etapas de cultivo sobre rosas.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
